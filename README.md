@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<h3 align="center"> 👍 GitHub Stats 👍 </h3>
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milsakim&show_icons=true&theme=radical)
