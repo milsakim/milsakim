@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=38f290&height=200&section=header&text=Hyejee%20Kim&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=38f290&height=200&section=header&text=Hyejee%20Kim&fontSize=80" />
 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -8,4 +8,4 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
 </p>
 
-[![milsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=milsakim)](https://github.com/anuraghazra/github-readme-stats)
+
