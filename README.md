@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=130&section=header&text=Hyejee%20Kim&fontColor=d83b7c&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=130&section=header&text=Hyejee%20Kim&fontColor=d83b7c&fontSize=70" />
 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
